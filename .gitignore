@@ -1,13 +1,16 @@
-# Compiled Object files
+config.log
+config.status
+Makefile
+.dirstamp
+*~
+*.deps
 *.slo
 *.lo
 *.o
-
-# Compiled Dynamic libraries
 *.so
 *.dylib
-
-# Compiled Static libraries
 *.lai
 *.la
 *.a
+src/config.h
+src/stamp-h1
